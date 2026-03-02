@@ -1,0 +1,16 @@
+.purple{
+    background-color: blueviolet;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+}
+
+.blue{
+    background-color: blue;
+    padding: 20px;
+    margin:30px;
+}
+
+.yo{
+    background-color: gold;
+}
