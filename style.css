@@ -38,3 +38,18 @@
 .marginbot{
     margin-bottom: 20px;
 }
+
+.redondo{
+      border-radius: 50%;
+    width: 40px; 
+    height: 40px;
+    padding: 0; 
+}
+
+.redo{
+    border-radius: 50%;
+}
+
+.top{
+    padding-right: 140px;
+}
